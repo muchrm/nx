@@ -97,6 +97,16 @@ const nrwlHomeTemplate = {
             </a>
         </li>
         <li class="col-span-2">
+            <a class="resource flex" href="https://nx.app/">
+                <img
+                        height="36"
+                        alt="Nx Cloud"
+                        src="https://nx.app/assets/nx-cloud-logo.svg"
+                />
+                <span class="gutter-left">Nx Cloud</span>
+            </a>
+        </li>
+        <li class="col-span-2">
             <a class="resource flex" href="https://connect.nrwl.io/">
                 <img
                         height="36"
