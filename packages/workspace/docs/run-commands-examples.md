@@ -75,7 +75,7 @@ Normally, `run-commands` considers the commands done when all of them have finis
         "commands": [
             { "command": "echo 'READY' && sleep 5 && echo 'FINISHED'" }
         ],
-        "readyWhen": "READY"
+        "readyWhen": "FINISHED"
     }
 }
 ```
